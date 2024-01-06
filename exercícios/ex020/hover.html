@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Hover</title>
+    <style>
+        body {
+
+        }
+        div > p {
+            display: none;
+        }
+        div:hover > p {
+            display: block;
+            color: white;
+            background-color: red;
+            width: 300px;
+            text-align: center;
+        }
+
+        div:hover {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        Exemplo de hover
+    </h1>
+    <div>
+        passe o mouse para mudar a cor!
+        <p>
+            Texto escondido!
+        </p>
+    </div>
+
+</body>
+</html>
