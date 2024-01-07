@@ -1,10 +1,12 @@
 # html-css
- Repositório criado de HTML5 e CSS3 com o Curso em Vídeo
+<p>Repositório criado de HTML5 e CSS3 com o Curso em Vídeo</p>
 
-Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
-Para acessar os exercícios feitos por mim, pode ser por aqui também.
+<p>
+    Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
+    Para acessar os exercícios feitos por mim, pode ser por aqui também.
+</p>
 
-Clique nos links abaixos para acessar as aulas:
+<p>Clique nos links abaixos para acessar as aulas:</p>
 
 <a href="https://lramossantos.github.io/html-css/exerc%C3%ADcios/ex001/index.html">Executar o execício 001</a>
 
@@ -48,4 +50,4 @@ Clique nos links abaixos para acessar as aulas:
 
 <a href="https://lramossantos.github.io/html-css/exerc%C3%ADcios/ex021/index.html">Executar o execício 021</a>
 
-<a href="https://lramossantos.github.io/html-css/exerc%C3%ADcios/ex022/index.html">Executar o execício 022</a>
+<p>Para melhores informações sobre os exercícios acesse minha pasta [html-css] no GitHub para ver todos os exercícios por completo!!</p>
