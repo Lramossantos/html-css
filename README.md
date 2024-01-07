@@ -14,7 +14,7 @@ Clique nos links abaixos para acessar as aulas:
 
 <a href="https://lramossantos.github.io/html-css/exerc%C3%ADcios/ex004/index.html">Executar o execício 004</a>
 
-<a href="https://lramossantos.github.io/html-css/exerc%C3%ADcios/ex005/index.html">Executar o execício 005</a>
+<a href="https://lramossantos.github.io/html-css/exercícios/ex005/index.html">Executar o execício 005</a>
 
 <a href="https://lramossantos.github.io/html-css/exerc%C3%ADcios/ex006/index.html">Executar o execício 006</a>
 
