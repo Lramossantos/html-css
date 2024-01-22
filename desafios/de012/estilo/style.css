@@ -1,5 +1,56 @@
 @charset "UTF-8";
+* {
+    padding: 0px;
+    margin: 0px;
+    margin: auto;
+}
 
 body {
+
+}
+
+header {    
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 25px 0px 0px 0px;
+    margin: 0px 0px 50px 0px;
+
+    min-width: 280px;
+    max-width: 2560px;
+
+    min-height: 100px;
     
+}
+
+header h1 {
+    font-size: 3em;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+}
+
+main p {
+    font-size: 17px;
+    margin-bottom: 14px;
+    line-height: 22px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
 }
